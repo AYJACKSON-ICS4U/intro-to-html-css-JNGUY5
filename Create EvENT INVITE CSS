@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            body{
+                color:rgb(230, 30, 230);
+            }
+             body{
+                background-color:rgb(131, 235, 87);
+            }
+            h1{
+                font-family: Comic sans ms ;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1>You're invited TO THIS DANK PARTY!</h1>
+        <h2>THE LITTEST PARTY EVA!</h2>
+        
+        <p>The details:</p>
+        <ul>
+            <li>LOTS OF FUN</li>
+            <li>TONS OF TASTY FOOD </li>
+            <li>TAYSTIE DRANKS </li>
+            <li>NO DRUGS </li>
+            <li>EVERYONE ALLOWED</li>
+        </ul>
+        
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-waves-daytime.png"alt ="beach wwhere party will get lit" >
+    </body>
+</html>
