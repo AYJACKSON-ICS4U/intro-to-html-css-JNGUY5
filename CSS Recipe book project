@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        ol{
+            color :rgb(227, 0, 227);
+        }
+        body{
+            color :rgb(227, 0, 227);
+        }
+        
+        body{
+            background-color :rgb(0, 42, 227);
+        }
+        #cow {
+            color:rgb(26, 161, 39);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>NOT MY RODRICKS's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="https://www.khanacademy.org/computer-programming/project-recipe-book/5698229755904000"> Recipe #1</a></li>
+            <li><a href="https://www.khanacademy.org/computer-programming/project-recipe-book/5698229755904000">Recipe #2</a></li>
+            <li><a href="https://www.khanacademy.org/computer-programming/project-recipe-book/5698229755904000">Recipe #3</a></li>
+        </ol>
+        
+        <h2 id="cow">Recipe #1, DOG FOOD</h2>
+        
+        <ul>
+            <li>Time: LOCAL STORE</li>
+            <li>Serves: 60 dogs</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Do GET DOG FOOD AND SERVE.</p>
+         <p><strong>Step 2:</strong> THOW A DOG A PARTY</p>
+
+        
+    <p><em>Source: <a href="https://www.khanacademy.org/computer-programming/project-recipe-book/5698229755904000">Some recipes websites</a></em></p>
+    <h2 id="?">Recipe #3, boiG FOOD</h2>
+        
+        <ul>
+            <li>Time: LOCAL STORE</li>
+            <li>Serves: 60 boigs</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Do GET boiG FOOD AND SERVE.</p>
+         <p><strong>Step 2:</strong> THOW A boiG A PARTY</p>
+
+        
+    <p><em>Source: <a href="https://www.khanacademy.org/computer-programming/project-recipe-book/5698229755904000">Some recipes websites</a></em></p>
+    
+    <h2 id="?">Recipe #2, cat FOOD</h2>
+        
+        <ul>
+            <li>Time: LOCAL STORE</li>
+            <li>Serves: 60 cats</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Do GETcat FOOD AND SERVE.</p>
+         <p><strong>Step 2:</strong> THOW A cat A PARTY</p>
+
+        
+    <p><em>Source: <a href="https://www.khanacademy.org/computer-programming/project-recipe-book/5698229755904000">Some recipes websites</a></em></p>
+    </body>
+</html>
